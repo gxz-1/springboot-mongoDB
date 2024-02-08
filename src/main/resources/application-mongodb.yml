@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      host: 202.115.17.90
+      port: 9873
+      username: admin
+      password: password
+      authentication-database: admin # 需要认证的数据库
+      database: test
